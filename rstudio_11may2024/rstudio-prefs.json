@@ -1,0 +1,41 @@
+{
+    "initial_working_directory": "~",
+    "editor_theme": "Dracula",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet2",
+            "Console",
+            "TabSet1"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Tutorial",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "auto_detect_indentation": true,
+    "continue_comments_on_newline": true,
+    "default_project_location": "~/Desktop/coding/Virusparies",
+    "margin_column": 100
+}
