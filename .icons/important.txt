@@ -1,0 +1,2 @@
+Sowohl .icons als auch .themes Dateien müssen in ein .themes oder
+.icons Folder in home plaziert werden. Dabei soll es unzipped werden und nur die Dateien in der Zip Datei soll dort hin. Nicht die Zip Datei selbst.
